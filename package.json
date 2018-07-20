@@ -1,0 +1,7 @@
+{
+  "name": "holabot",
+  "version": "1.0",
+  "dependencies": {
+    "botbuilder": "^3.15.0"
+  }
+}
